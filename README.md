@@ -5,10 +5,10 @@ This program implements a **128-bit hybrid cipher** that combines **AES (substit
 ---
 
 ## Features
--128-bit Encryption Strength: Uses AES for strong substitution.
--Block-level Transposition: Rearranges ciphertext blocks for added security.
--Supports Any Plaintext: Encrypts and decrypts text of any length.
--Preserves Data Integrity: Ensures the decrypted text matches the original plaintext.
+- 128-bit Encryption Strength: Uses AES for strong substitution.
+- Block-level Transposition: Rearranges ciphertext blocks for added security.
+- Supports Any Plaintext: Encrypts and decrypts text of any length.
+- Preserves Data Integrity: Ensures the decrypted text matches the original plaintext.
   
 ---
 
