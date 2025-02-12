@@ -31,6 +31,7 @@ This program implements a **128-bit hybrid cipher** that combines **AES (substit
 1. Open the notebook in Google Colab:
    - Click on the `hybrid_cipher.ipynb` file in the repository.
    - Click the **Open in Colab** button.
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leorasdsouza/Hybrid-Cipher/blob/main/HybridCipher.ipynb)
 
 2. Run the notebook:
    - Execute the notebook to see the hybrid cipher in action.
